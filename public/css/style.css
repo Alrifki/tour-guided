@@ -1,0 +1,61 @@
+html, body {
+    max-width: 100%;
+    
+}
+.navbar .icon{
+    position: absolute;
+    margin-left: 300px;
+}
+.content1{
+    background-image: url(/img/umroh3.jpeg);
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 110vh;
+    padding-top: 160px;
+}
+
+.content2 a{
+    text-decoration: none;
+    color: black;
+}
+.content2 .text{
+    text-align: center;
+}
+.content2 .text{
+    font-size: 50px;
+    text-shadow: 10px;
+}
+.btn:hover{
+    opacity: .7;
+	box-shadow: 5px 7px 10px  rgba(0,0,0,0.5);
+	transform: scale(1.1);
+	transition: 1s;
+}
+.card:hover{
+    transform: scale(1.1);
+	transition: 1s;
+}
+.content4{
+    background-image: url(/img/umroh2.jpeg);
+    background-attachment: fixed;
+    background-size: cover;
+}
+.content4 .text{
+    text-align: center;
+}
+.content4 .text{
+    font-size: 50px;
+    text-shadow: 10px;
+}
+.content4 a{
+    text-decoration: none;
+    color: black;
+}
+.contetn3 .text{
+    font-size: 50px;
+}
+.footer a{
+    text-decoration: none;
+    color: gray;
+}
